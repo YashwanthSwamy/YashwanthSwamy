@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Hirehalli Swamy</h1>
 <h3 align="center">A passionate full stack developer who leaves in United States</h3>
 
-- 🔭 I’m currently working on [Portfolio Version 2](https://github.com/YashwanthSwamy/Portfolio_V2)
+- 🔭 I’m currently working on [Tweets Scheduler using ruby](https://github.com/YashwanthSwamy/tweets_scheduler)
 
 - 👨‍💻 All of my projects are available at [https://yashwanthswamy.com/](https://yashwanthswamy.com/)
 
-- 💬 Ask me about **React, Angular, Python**
+- 💬 Ask me about **Typescript, Python, Ruby**
 
 - 📫 How to reach me **yashwanth.swamy@colorado.edu**
 
